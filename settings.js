@@ -63,7 +63,7 @@ global.location = "India, West Bangal, Siliguri" //ur location
 //bot bomdy 
 global.owner = ['919832518780']
 global.ownertag = '919832518780' //ur tag number
-global.botname = 'TAKIBOT V0.2' //ur bot name
+global.botname = '2NDLINE-BOT-V0.2' //ur bot name
 global.linkz = "https://youtube.com/channel/UCfuyuz1lDd9GGnR0dcc4o9A" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/Takiline' //script link
